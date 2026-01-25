@@ -20,13 +20,17 @@
 
 ## 🚀 Featured Projects
 
-### 🏥 [Zerodha - Buy And Sell Stocks ](#)
-> A WebApp for monitoring , buying and Selling Stocks , Detailed Dashboards.  
-> **Tech:** `React.js`, `Node`, `MongoDB`, `Express`
-
 ### 🧾 [Chatting.. ](#)
 > Chatting application , Send friend requests , chat , voice call , Video call features..  
 > **Tech:** `Next.js`, `Node`, `PostgreSql`, `Socket.io`, `Express`
+
+### 🧾 [Live.. ](#)
+>  Video Conferencing Tool similar to Zoom   
+> **Tech:** `React.js`, `Node`, `Mongo-DB`, `Socket.io`, `Express`
+
+### 🏥 [Zerodha - Buy And Sell Stocks ](#)
+> A WebApp for monitoring , buying and Selling Stocks , Detailed Dashboards.  
+> **Tech:** `React.js`, `Node`, `MongoDB`, `Express`.
 
 ---
 
