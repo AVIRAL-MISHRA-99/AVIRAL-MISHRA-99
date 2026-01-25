@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#4FC3F7">Aviral Mishra</span></h1>
 
 <p align="center">
-  <b>Full-Stack Developer | MERN Stack | AI + Web Enthusiast</b><br/>
+  <b>Full-Stack Developer | MERN Stack | Spring Framework | AI + Web Enthusiast</b><br/>
   I craft fast, scalable, and intelligent web applications that solve real-world problems.
 </p>
 
