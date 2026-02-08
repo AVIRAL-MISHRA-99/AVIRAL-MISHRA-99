@@ -74,7 +74,7 @@
 ## 📬 Let's Connect!
 
   📧 [am216482@gmail.com](mailto:am216482@gmail.com) <br />
-  🔗 [LinkedIn](www.linkedin.com/in/aviral-mishra-7b68b0382) <br />
+  🔗 [LinkedIn](linkedin.com/in/aviral-mishra-7b68b0382) <br />
   💻 [GitHub](https://github.com/AVIRAL-MISHRA-99) <br />
   🧠 [LeetCode](https://leetcode.com/u/mishra-333/)
 
